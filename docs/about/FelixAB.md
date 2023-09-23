@@ -2,8 +2,16 @@
 **You haven't heard of me, have ya?**  
 ## Q&A about me  
 ### Me?  
-**Q:** Who the h are you?   
-**A:** FelixAB, and kQYa 6JS Zs S#j7u Uy@jCuh %jLeYfNMXg, q% 98$ZtaYZ fv9b &z6y$ !!  
+**Q:** Who are you?   
+**A:** Oh hi, this is FelixAB.  
 ### Job?  
-**Q:** Fine, I mean, what do you do?    
-**A:** *Oh yeah*, I'm a ***PIXEL ARTIST***. At the [Homepage](/README.md) you can see a pixelated apple. This is one of my numerous works.
+**Q:** So, what do you do?     
+**A:** *Oh yeah*, I'm a ***PIXEL ARTIST***. At the [Homepage](/README.md) you can see a pixelated apple. This is one of my numerous works.  
+### Where to find you?
+Well, ...  
+Bilibili: `@-FelixAB-`  
+Github: `https://github.com/Felix-IX`  
+Pixilart: `https://www.pixilart.com/felixab`  
+500px: `https://500px.com.cn/akaFelixAB`
+
+

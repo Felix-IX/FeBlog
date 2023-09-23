@@ -1,8 +1,9 @@
-//导入defaultTheme
-import { defaultTheme } from '@vuepress/theme-default'
+//import hopeTheme
+import { defineUserConfig } from "vuepress";
+import { hopeTheme } from 'vuepress-theme-hope'
 
 export default {
-  theme: defaultTheme({
+  theme: hopeTheme({
     logo: 'docs/.vuepress/Public/Images/Apple.png',
     navbar: [
       // NavbarItem
@@ -22,6 +23,5 @@ export default {
         link: '/README.md',
       },
     ],
-    logo: '/Images/Apple.png',
   }),
-}
+};
