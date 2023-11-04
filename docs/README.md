@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /Images/Apple.png
+heroImage: docs\.vuepress\Public\Images\Apple-560-560.png
 heroText: Felix's Blog
 tagline: Progress limitlessly!
 actions: 

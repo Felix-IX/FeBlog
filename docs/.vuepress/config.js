@@ -3,10 +3,13 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
   theme: defaultTheme({
-    logo: 'docs/.vuepress/Public/Images/Apple.png',
     navbar: [
       // NavbarItem
-
+      {
+        logo: 'docs/.vuepress/Public/Images/Apple-560-560.png',
+        text: 'Home',
+        link: '/README.md',
+      },
       // NavbarGroup
       {
         text: 'About',
@@ -16,10 +19,6 @@ export default {
             link: '/about/FelixAB.md',
           }
         ],
-      },
-      {
-        text: 'Home',
-        link: '/README.md',
       },
     ],
   }),
